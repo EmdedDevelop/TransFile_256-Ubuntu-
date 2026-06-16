@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/TF_256.dir/main.cpp.o -o TF_256  -lz 
